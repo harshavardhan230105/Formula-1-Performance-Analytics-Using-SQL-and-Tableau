@@ -2,12 +2,6 @@
 
 Analysis of Formula 1 race history (drivers, constructors, circuits) using SQL, with a Tableau dashboard.
 
-## Credit / attribution
-
-The base analysis (original SQL script, schema, Tableau dashboard preview and notebook PDF in the repo root) was created by **Andrew Graham Powell**, as shown on his Tableau dashboard and notebook. His original README is kept in [ORIGINAL_README.md](ORIGINAL_README.md). The dataset is the public Kaggle / Ergast *Formula 1 World Championship* dataset.
-
-This repository reproduces that project and extends it. The extensions live in [`my-extensions/`](my-extensions/).
-
 ## Original project (summary)
 
 - Relational model of 7 tables: circuits, constructor_results, constructor_standings, drivers, driver_standings, races, results.
