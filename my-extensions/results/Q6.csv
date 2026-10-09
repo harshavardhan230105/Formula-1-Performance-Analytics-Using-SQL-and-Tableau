@@ -1,0 +1,11 @@
+decade,reason,occurrences,reason_rank
+1950,Engine,237,1
+1950,Accident,131,2
+1950,Transmission,68,3
+1950,Gearbox,54,4
+1950,Clutch,38,5
+2010,Collision,173,1
+2010,Accident,99,2
+2010,Engine,77,3
+2010,Retired,51,4
+2010,Gearbox,51,4
